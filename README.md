@@ -22,9 +22,3 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
-
-<h3 align="left">🔥 My Stats:</h3>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=LinoxYoung&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
-</div>

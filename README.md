@@ -4,7 +4,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LinoxYoung.LinoxYoung" />
 </div>
 
-<h3 align="left">About Me:</h3>
+<h3 align="left">🌃About Me:</h3>
 <p align="left">
   <br>- I am currently studying to become a Data Scientist and deepening my knowledge in Mathematics.<br>
   - In my free time, I enjoy playing video games, watching anime, and working out — sometimes all at once.

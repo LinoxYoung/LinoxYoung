@@ -1,9 +1,5 @@
 <h1 align="center">🐍 LinoxYoung / Profile 🐍</h1>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LinoxYoung.LinoxYoung" />
-</div>
-
 <h3 align="left">🌃About Me:</h3>
 <p align="left">
   <br>- I am currently studying to become a Data Scientist and deepening my knowledge in Mathematics.<br>

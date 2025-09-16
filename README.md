@@ -22,11 +22,5 @@
 </p>
 
 <h3 align="left">🔥 My Stats:</h3>
-
-<div align="center">
-  <p><strong>GitHub</strong></p>
-  <img src="https://streak-stats.demolab.com?user=LinoxYoung&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="GitHub Streak Stats" />
-
-  <p><strong>LeetCode</strong></p>
   <img src="https://leetcard.jacoblin.cool/LinoxYoung?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </div>

@@ -22,5 +22,6 @@
 </p>
 
 <h3 align="left">🔥 My Stats:</h3>
+  <div align="center">
   <img src="https://leetcard.jacoblin.cool/LinoxYoung?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 </div>
